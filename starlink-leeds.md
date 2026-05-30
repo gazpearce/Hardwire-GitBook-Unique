@@ -7,7 +7,7 @@
 
                     With a local presence in Leeds, we provide quick response times and personalized support for all your Starlink needs.
 
-                    Ready to upgrade your home? Contact our Leeds team at 07830 638337 to book your Starlink appointment today.
+                    Ready to upgrade your home? Contact our Leeds team at [Contact Form Online] to book your Starlink appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Leeds)
 
         </div>

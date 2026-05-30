@@ -7,7 +7,7 @@
 
                     Our commitment to excellence means every Data Cabling project is completed with precision, care, and a focus on customer satisfaction.
 
-                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at 07830 638337 for expert Data Cabling advice.
+                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at [Contact Form Online] for expert Data Cabling advice.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Newcastle)
 
         </div>

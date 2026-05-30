@@ -7,7 +7,7 @@
 
                     Our commitment to excellence means every Phone Lines project is completed with precision, care, and a focus on customer satisfaction.
 
-                    Don't settle for less than the best. Call Gary Pearce today at 07830 638337 for a free consultation on your Phone Lines project.
+                    Don't settle for less than the best. Call Gary Pearce today at [Contact Form Online] for a free consultation on your Phone Lines project.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Wakefield)
 
         </div>

@@ -7,7 +7,7 @@
 
                     We use only the latest equipment to guarantee long-lasting results and peak performance for your WiFi Installations setup.
 
-                    Don't settle for less than the best. Call Gary Pearce today at 07830 638337 for a free consultation on your WiFi Installations project.
+                    Don't settle for less than the best. Call Gary Pearce today at [Contact Form Online] for a free consultation on your WiFi Installations project.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Blackburn)
 
         </div>

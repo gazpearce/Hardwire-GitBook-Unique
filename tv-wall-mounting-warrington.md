@@ -7,7 +7,7 @@
 
                     We use only the latest equipment to guarantee long-lasting results and peak performance for your TV Wall Mounting setup.
 
-                    Ready to upgrade your home? Contact our Warrington team at 07830 638337 to book your TV Wall Mounting appointment today.
+                    Ready to upgrade your home? Contact our Warrington team at [Contact Form Online] to book your TV Wall Mounting appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Warrington)
 
         </div>

@@ -7,7 +7,7 @@
 
                     Our commitment to excellence means every WiFi Installations project is completed with precision, care, and a focus on customer satisfaction.
 
-                    Ready to upgrade your home? Contact our Newcastle team at 07830 638337 to book your WiFi Installations appointment today.
+                    Ready to upgrade your home? Contact our Newcastle team at [Contact Form Online] to book your WiFi Installations appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Newcastle)
 
         </div>

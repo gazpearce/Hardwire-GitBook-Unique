@@ -7,7 +7,7 @@
 
                     We use only the latest equipment to guarantee long-lasting results and peak performance for your Starlink setup.
 
-                    Ready to upgrade your home? Contact our Derby team at 07830 638337 to book your Starlink appointment today.
+                    Ready to upgrade your home? Contact our Derby team at [Contact Form Online] to book your Starlink appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Derby)
 
         </div>

@@ -7,7 +7,7 @@
 
                     With a local presence in Liverpool, we provide quick response times and personalized support for all your Wireless Alarm Installation needs.
 
-                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at 07830 638337 for expert Wireless Alarm Installation advice.
+                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at [Contact Form Online] for expert Wireless Alarm Installation advice.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Liverpool)
 
         </div>

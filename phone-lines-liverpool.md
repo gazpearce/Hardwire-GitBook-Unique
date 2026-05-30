@@ -7,7 +7,7 @@
 
                     We use only the latest equipment to guarantee long-lasting results and peak performance for your Phone Lines setup.
 
-                    Ready to upgrade your home? Contact our Liverpool team at 07830 638337 to book your Phone Lines appointment today.
+                    Ready to upgrade your home? Contact our Liverpool team at [Contact Form Online] to book your Phone Lines appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">07830 638337</p>
+            <p class="phone">[Contact Form Online]</p>
             <strong>Service Area:</strong> Northern England (Based around Liverpool)
 
         </div>
