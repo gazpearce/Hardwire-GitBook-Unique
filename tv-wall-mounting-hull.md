@@ -7,7 +7,7 @@
 
                     We use only the latest equipment to guarantee long-lasting results and peak performance for your TV Wall Mounting setup.
 
-                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at [Contact Form Online] for expert TV Wall Mounting advice.
+                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at [[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;) for expert TV Wall Mounting advice.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">[Contact Form Online]</p>
+            <p class="phone">[[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;)</p>
             <strong>Service Area:</strong> Northern England (Based around Hull)
 
         </div>

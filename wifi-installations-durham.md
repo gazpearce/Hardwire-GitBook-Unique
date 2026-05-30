@@ -7,7 +7,7 @@
 
                     Our commitment to excellence means every WiFi Installations project is completed with precision, care, and a focus on customer satisfaction.
 
-                    Ready to upgrade your home? Contact our Durham team at [Contact Form Online] to book your WiFi Installations appointment today.
+                    Ready to upgrade your home? Contact our Durham team at [[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;) to book your WiFi Installations appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">[Contact Form Online]</p>
+            <p class="phone">[[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;)</p>
             <strong>Service Area:</strong> Northern England (Based around Durham)
 
         </div>

@@ -7,7 +7,7 @@
 
                     We use only the latest equipment to guarantee long-lasting results and peak performance for your Wireless Alarm Installation setup.
 
-                    Don't settle for less than the best. Call Gary Pearce today at [Contact Form Online] for a free consultation on your Wireless Alarm Installation project.
+                    Don't settle for less than the best. Call Gary Pearce today at [[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;) for a free consultation on your Wireless Alarm Installation project.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">[Contact Form Online]</p>
+            <p class="phone">[[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;)</p>
             <strong>Service Area:</strong> Northern England (Based around York)
 
         </div>

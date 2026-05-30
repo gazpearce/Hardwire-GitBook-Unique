@@ -7,7 +7,7 @@
 
                     With a local presence in Nottingham, we provide quick response times and personalized support for all your WiFi Installations needs.
 
-                    Ready to upgrade your home? Contact our Nottingham team at [Contact Form Online] to book your WiFi Installations appointment today.
+                    Ready to upgrade your home? Contact our Nottingham team at [[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;) to book your WiFi Installations appointment today.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">[Contact Form Online]</p>
+            <p class="phone">[[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;)</p>
             <strong>Service Area:</strong> Northern England (Based around Nottingham)
 
         </div>

@@ -7,7 +7,7 @@
 
                     With a local presence in Doncaster, we provide quick response times and personalized support for all your Phone Lines needs.
 
-                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at [Contact Form Online] for expert Phone Lines advice.
+                    Join our list of satisfied customers in Northern England. Reach out to Gary Pearce at [[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;) for expert Phone Lines advice.
 
                 
 
@@ -25,7 +25,7 @@
 
             Contact Gary Pearce today for a free quote.
 
-            <p class="phone">[Contact Form Online]</p>
+            <p class="phone">[[Contact Form Online]](https://aiagent1510.github.io/Websites/" style="color: inherit; text-decoration: underline;)</p>
             <strong>Service Area:</strong> Northern England (Based around Doncaster)
 
         </div>
